@@ -1,0 +1,22 @@
+-var head_url = 'https://mastervision.su/abramova/test/special-offer/';
+-var head_title = '«Как вернуть удачу»';
+-var head_description = 'Специальное предложение от Жанны Абрамовой';
+-var styles = '../css/trip.min.css';
+-var fav_ico = '../favicon.ico';
+-var fav_png = '../favicon.png';
+-var oferta = '../oferta/oferta.doc';
+-var offer = 'https://shop.mastervision.su/?r=ordering/cart/as1&id=1703&clean=true&lg=ru';
+
+<!DOCTYPE html>
+html(lang="ru")
+	head
+		include pug/head
+		include pug/scripts/head_scripts
+	body
+		include pug/scripts/body_top_scripts
+		include pug/trip/header
+		include pug/trip/main
+		include pug/trip/info
+		include pug/trip/last
+		include pug/trip/footer
+		include pug/scripts/body_bottom_scripts
