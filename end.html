@@ -37,13 +37,15 @@
       <div class="container">
         <p class="end-pre">На вопросы отвечает</p>
         <h1 class="end-title">Жанна Абрамова</h1>
-        <form class="end-form" action="/special-offer/">
+        <form class="end-form" action="https://shop.mastervision.su/?r=personal/newsletter/sub/add&amp;id=3568&amp;lg=ru" method="post" enctype="application/x-www-form-urlencoded" accept-charset="UTF-8">
           <input class="input end-input" type="text" placeholder="Введите Ваш e-mail"/>
-          <button class="button end-button" type="submit">Далее</button>
+          <button class="button end-button" type="submit">Получить результат</button>
           <div class="checking">
             <input class="check" type="checkbox" id="check" checked="checked"/>
             <label class="check_label" for="check">Я согласен с <a href="javascript:void(0);" data-modal="modal"> условиями обработки персональных данных</a> по 152 - Ф3</label>
-          </div>
+          </div><!--Обязательный параметр. Не удалять и не изменять!-->
+          <input type="hidden" value="225" name="Contact[id_newsletter]"/><!--API код канала рекламы-->
+          <input type="hidden" value="0" name="Contact[id_advertising_channel_page]"/>
         </form>
       </div>
     </section>
