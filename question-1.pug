@@ -1,0 +1,22 @@
+-var head_title = 'Как вы обычно флиртуете?';
+-var head_description = '1 вопрос теста';
+-var styles = 'css/styles.min.css';
+-var fav_ico = 'favicon.ico';
+-var fav_png = 'favicon.png';
+-var q_class = 'main-question-1';
+-var q_title = 'Вопрос 1'
+-var q_name = 'question-1';
+-var choices= ['Чувствую себя весьма раскрепощенно даже с незнакомыми мне мужчинами. Если мужчина импонирует, то шучу, смеюсь, заигрываю. Со мной легко и весело', 'Смущаюсь, особенно при первых встречах. Стараюсь не активничать, с интересом слушаю, веду себя достойно и сдержанно', 'Активно участвую в беседе, могу спорить, подшучивать, открыто кокетничать и флиртовать. Иногда даже беру инициативу в свои руки, а то пока дождёшься от этих мужиков…', 'Стараюсь его вовлечь в разговор, рассказываю интересные истории, интересуюсь его жизнью, окружаю своим вниманием. Хочу показать, как со мной интересно', 'Кокетничаю, строю глазки, делаю комплименты, восхищаюсь мужчиной, восторженно слушаю его рассказы. Провоцирую на то, чтобы он за мной ухаживал', 'Другой вариант'];
+-var f_link = 'question-2';
+
+<!DOCTYPE html>
+html(lang="ru")
+	head
+		include pug/head_q
+		include pug/scripts/head_scripts
+	body
+		include pug/scripts/body_top_scripts
+		include pug/qs/main
+		include pug/qs/second
+		include pug/scripts
+		include pug/scripts/body_bottom_scripts

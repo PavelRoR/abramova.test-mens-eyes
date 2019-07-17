@@ -1,0 +1,22 @@
+-var head_title = 'Что для вас важнее всего в отношениях?';
+-var head_description = '4 вопрос теста';
+-var styles = 'css/styles.min.css';
+-var fav_ico = 'favicon.ico';
+-var fav_png = 'favicon.png';
+-var q_class = 'main-question-4';
+-var q_title = 'Вопрос 4'
+-var q_name = 'question-4';
+-var choices= ['Уверенность в завтрашнем дне, надежность, домашний уют', 'Яркие эмоции, интересное общение, сумасшедший секс', 'Семейный статус, дети, совместные праздники и поездки', 'Взаимное понимание, общность интересов, духовное развитие', 'Поддержка, забота, помощь', 'Другой вариант'];
+-var f_link = 'end';
+
+<!DOCTYPE html>
+html(lang="ru")
+	head
+		include pug/head_q
+		include pug/scripts/head_scripts
+	body
+		include pug/scripts/body_top_scripts
+		include pug/qs/main
+		include pug/qs/second
+		include pug/scripts
+		include pug/scripts/body_bottom_scripts

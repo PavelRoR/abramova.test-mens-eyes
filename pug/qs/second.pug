@@ -1,0 +1,8 @@
+section.second
+	.container
+		form.question-form(action= f_link method="POST")
+			each q_choice, index in choices
+				.choice
+					input(class="q-radio" type="radio" name= q_name id='q-choice-'+index value= index)
+					label(for='q-choice-'+index )= q_choice
+			button.button.form-button(type='submit') Далее
