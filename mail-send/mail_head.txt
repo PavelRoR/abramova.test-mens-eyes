@@ -1,0 +1,396 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"
+	xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+	<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width" initial-scale="1.0" user-scalable="yes" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="format-detection" content="date=no" />
+	<meta name="format-detection" content="address=no" />
+	<meta name="format-detection" content="email=no" />
+	<meta name="robots" content="noindex,nofollow" />
+	<title>Результаты теста "Мы глазами мужчин"</title>
+	<!--[if !mso]><!-->
+	<link
+		href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i&amp;subset=cyrillic,cyrillic-ext,latin-ext"
+		rel="stylesheet" type="text/css">
+	<!--<![endif]-->
+	<!--[if mso]><style type="text/css">.h1,.h2,.h3,a,p,li,.mlContentContainer,.mlContentContainer .h1,.mlContentContainer .h2,.mlContentContainer .h3,.mlContentContainer a,.mlContentContainer p,.mlContentContainer li,.mlContentContainer p,.mlContentContainer .mlContentRSS{font-family: Arial, Helvetica, sans-serif;}</style><![endif]-->
+
+	<link href="https://static2.mailerlite.com/css/fb.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="https://static2.mailerlite.com/js/jquery.js"></script>
+	<script type="text/javascript" src="https://static2.mailerlite.com/js/jquery.fzoom.js?v2"></script>
+	<script type="text/javascript">
+		var lang = 'ru';
+		var url = '9758092//';
+		var mail_link = "http://preview.mailerlite.com/v4m2d0";
+		var mail_title = "Результаты теста "
+		Мы глазами мужчин "";
+	</script>
+	<script type="text/javascript" src="https://static2.mailerlite.com/js/email.js"></script>
+	<style type="text/css">
+		.ReadMsgBody {
+			width: 100%;
+		}
+
+		.ExternalClass {
+			width: 100%;
+		}
+
+		.ExternalClass * {
+			line-height: 100%;
+		}
+
+		.ExternalClass,
+		.ExternalClass p,
+		.ExternalClass td,
+		.ExternalClass div,
+		.ExternalClass span,
+		.ExternalClass font {
+			line-height: 100%;
+		}
+
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		body,
+		table,
+		td,
+		p,
+		a,
+		li {
+			-webkit-text-size-adjust: 100%;
+			-ms-text-size-adjust: 100%;
+		}
+
+		table td {
+			border-collapse: collapse;
+		}
+
+		table {
+			border-spacing: 0;
+			border-collapse: collapse;
+		}
+
+		p,
+		a,
+		li,
+		td,
+		blockquote {
+			mso-line-height-rule: exactly;
+		}
+
+		p,
+		a,
+		li,
+		td,
+		body,
+		table,
+		blockquote {
+			-ms-text-size-adjust: 100%;
+			-webkit-text-size-adjust: 100%;
+		}
+
+		img,
+		a img {
+			border: 0;
+			outline: none;
+			text-decoration: none;
+		}
+
+		img {
+			-ms-interpolation-mode: bicubic;
+		}
+
+		a[href^=tel],
+		a[href^=sms] {
+			color: inherit;
+			cursor: default;
+			text-decoration: none;
+		}
+
+		a[x-apple-data-detectors] {
+			color: inherit !important;
+			text-decoration: none !important;
+			font-size: inherit !important;
+			font-family: inherit !important;
+			font-weight: inherit !important;
+			line-height: inherit !important;
+		}
+
+		.mlEmailContainer {
+			max-width: 640px !important;
+		}
+
+		.mlContentContainer p a {
+			word-break: break-word;
+		}
+
+		p {
+			font-family: Arial, sans-serif;
+			font-size: 16px;
+			color: #303030;
+		}
+
+		@-moz-document url-prefix() {
+			.mlContentContainer p a {
+				word-break: break-all;
+			}
+		}
+
+		@media only screen and (min-width:768px) {
+			.mlEmailContainer {
+				width: 640px !important;
+			}
+		}
+
+		@media only screen and (max-width: 640px) {
+			.mlTemplateContainer {
+				padding: 10px 10px 0 10px;
+			}
+
+			.mlContentTable,
+			.mlContentOuter .mlBottomContentOuter {
+				width: 100% !important;
+				min-width: 200px !important;
+			}
+
+			/* -- */
+			.mlContentBlock {
+				float: none !important;
+				width: 100% !important;
+			}
+
+			/* -- */
+			.mlContentOuter {
+				padding-bottom: 0px !important;
+				padding-left: 25px !important;
+				padding-right: 25px !important;
+				padding-top: 25px !important;
+			}
+
+			/* -- */
+			.mlBottomContentOuter {
+				padding-bottom: 25px !important;
+			}
+
+			.mlLeftRightContentOuter {
+				padding-left: 5px !important;
+				padding-right: 5px !important;
+			}
+
+			.mlContentContainerOuter {
+				padding-left: 0px !important;
+				padding-right: 0px !important;
+			}
+
+			/* -- */
+			.mlContentContainer {
+				padding-left: 25px !important;
+				padding-right: 25px !important;
+			}
+
+			/* -- */
+			.mlContentButton a,
+			.mlContentButton span {
+				width: auto !important;
+			}
+
+			/* -- */
+			.mlContentImage img {
+				height: auto !important;
+				width: 100% !important;
+			}
+
+			/* -- */
+			.mlContentRSS.rss_img3 img {
+				height: auto !important;
+				width: 100% !important;
+			}
+
+			/* -- */
+			.mlContentImage {
+				height: 100% !important;
+				width: auto !important;
+			}
+
+			.mlContentLogo img {
+				height: auto !important;
+				width: 100% !important;
+			}
+
+			/* -- */
+			.mlContentContainer h1 {
+				font-size: 24px !important;
+				line-height: 125% !important;
+				margin-bottom: 0px !important;
+			}
+
+			/* -- */
+			.mlContentContainer h2 {
+				font-size: 18px !important;
+				line-height: 125% !important;
+				margin-bottom: 0px !important;
+			}
+
+			/* -- */
+			.mlContentContainer h3 {
+				font-size: 16px !important;
+				line-height: 125% !important;
+				margin-bottom: 0px !important;
+			}
+
+			/* -- */
+			.mlContentContainer p,
+			.mlContentContainer .mlContentRSS {
+				font-size: 16px !important;
+				line-height: 150% !important;
+			}
+
+			/* -- */
+			.mobileHide {
+				display: none !important;
+			}
+
+			/* -- */
+			.alignCenter {
+				height: auto !important;
+				text-align: center !important
+			}
+
+			/* -- */
+			.marginBottom {
+				margin-bottom: 25px !important;
+			}
+
+			/* -- */
+			.mlContentHeight {
+				height: auto !important;
+			}
+
+			.mlContentGap {
+				height: 25px !important;
+			}
+
+			.mlDisplayInline {
+				display: inline-block !important;
+				float: none !important;
+			}
+
+			body {
+				margin: 0px !important;
+				padding: 0px !important;
+			}
+
+			body,
+			table,
+			td,
+			p,
+			a,
+			li,
+			blockquote {
+				-webkit-text-size-adjust: none !important;
+			}
+		}
+
+		@media only screen and (max-width: 540px) {
+			.mlContentRSS.rss_img2 img {
+				height: auto !important;
+				width: 100% !important;
+			}
+		}
+
+		@media only screen and (max-width: 440px) {
+			.mlContentRSS.rss_img1 img {
+				height: auto !important;
+				width: 100% !important;
+			}
+		}
+
+		@media only screen and (max-width: 320px) {
+			.mlContentRSS.rss_img0 img {
+				height: auto !important;
+				width: 100% !important;
+			}
+		}
+	</style>
+</head>
+
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" dir="ltr"
+	style="padding: 0; margin: 0; -webkit-font-smoothing:antialiased; -webkit-text-size-adjust:none; background: #ffffff;);"
+	bgcolor="#ffffff">
+	<div id="fb-root" style="display:none"></div>
+	<!--[if !mso]><!-- -->
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff"
+		style=");border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+		<tr>
+			<td class="mlTemplateContainer" align="center">
+				<table align="center" border="0" class="mlEmailContainer" cellpadding="0" cellspacing="0" width="100%"
+					style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+					<tr>
+						<td align="center">
+							<!--<![endif]-->
+							<!-- Content starts here -->
+							<table width="640" class="mlContentTable" cellspacing="0" cellpadding="0" border="0"
+								align="center">
+								<tr>
+									<td height="30"></td>
+								</tr>
+							</table>
+							<table align="center" width="640" class="mlContentTable" cellpadding="0" cellspacing="0"
+								border="0">
+								<tr>
+									<td class="mlContentTable">
+										<table align="center" width="640" class="mlContentTable" cellpadding="0"
+											cellspacing="0" border="0" style="min-width: 640px; width: 640px;">
+											<tr>
+												<td class="mlContentTable">
+													<table width="640" class="mlContentTable" cellspacing="0"
+														cellpadding="0" border="0" bgcolor="#a76fc3" align="center"
+														style="width: 640px;">
+														<tr>
+															<td class="mlContentImage"> <img border="0"
+																	src="https://mastervision.su/abramova/test/img/mail/mail_head.jpg"
+																	width="640" height="auto" alt=""
+																	style="display: block;" /> </td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</table>
+										<table align="center" border="0" bgcolor="#FFFFFF" class="mlContentTable"
+											cellspacing="0" cellpadding="0"
+											style="background: #FFFFFF; min-width: 640px; width: 640px;" width="640"
+											id="ml-block-66730730">
+											<tr>
+												<td>
+													<table width="640" class="mlContentTable" bgcolor="#FFFFFF"
+														cellspacing="0" cellpadding="0" border="0" align="center"
+														style="background: #FFFFFF; width: 640px;">
+														<tr>
+															<td align="left" class="mlContentContainer"
+																style="padding: 5px 50px 5px 50px;">
+																<h1
+																	style="margin: 30px 0 0; font-family: Sans-Serif; font-weight: bold; font-size: 24px; text-decoration: none; line-height: 29px; color: #303030">
+																	Ваш результат теста:</h1>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</table>
+										<table align="center" border="0" bgcolor="#FFFFFF" class="mlContentTable"
+											cellspacing="0" cellpadding="0"
+											style="background: #FFFFFF; min-width: 640px; width: 640px;" width="640"
+											id="ml-block-66730608">
+											<tr>
+												<td>
+													<table width="640" class="mlContentTable" bgcolor="#FFFFFF"
+														cellspacing="0" cellpadding="0" border="0" align="center"
+														style="background: #FFFFFF; width: 640px;">
+														<tr>
+															<td align="left" class="mlContentContainer"
+																style="padding: 15px 50px 5px 50px; font-family: 'Arial', Sans-Serif; font-size: 16px; color: #666666; line-height: 27px;">
